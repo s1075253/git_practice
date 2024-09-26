@@ -17,8 +17,25 @@
 6. 練習Markdown語法
 
 # Markdown語法練習區⬇️⬇️⬇️
+###H1標題
 
+**粗體**
 
+*斜體*
+```python
+#一行程式碼
+printf("Hello, World")
+```
 
+[Github](https://github.com)
 
+![替代文字](https://juststickers.in/wp-content/uploads/2019/01/flutter.png)
+
+> 引用
+---
+區隔過後
+|表頭1|表頭2|
+|-----|-----|
+|單元格1|單元格2|
+|單元格3|單元格4|
 
