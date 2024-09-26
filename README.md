@@ -17,8 +17,30 @@
 6. 練習Markdown語法
 
 # Markdown語法練習區⬇️⬇️⬇️
+**這是粗體**
+*這是斜體*
+
+-第一項
+-第二項
+ -第一項
+ -第二項
+
+~這是一行程式碼~
+~~~python
 
 
+~~~
 
+[Github](https://github.com/)
+[flutter icon](https://www.google.com/imgres?q=flutter%20icon&imgurl=https%3A%2F%2Fstorage.googleapis.com%2Fcms-storage-bucket%2Fa9d6ce81aee44ae017ee.png&imgrefurl=https%3A%2F%2Fflutter.dev%2Fbrand&docid=MM4r-ALr3-nHNM&tbnid=-QLqw9-HZYCoxM&vet=12ahUKEwjy_tPC4N-IAxW2lK8BHVdBNN8QM3oECHAQAA..i&w=380&h=554&hcb=2&ved=2ahUKEwjy_tPC4N-IAxW2lK8BHVdBNN8QM3oECHAQAA)
 
+>這是一個引用
 
+---
+
+區隔過後
+
+|表頭1|表頭2|
+|-----|-----|
+|單元格1|單元格2|
+|單元格3|單元格4|
