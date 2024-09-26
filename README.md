@@ -17,8 +17,38 @@
 6. 練習Markdown語法
 
 # Markdown語法練習區⬇️⬇️⬇️
+# H1標題
+## H2標題
+### H3標題
+#### H4標題
+**這是粗體**
+*這是斜體*
+- 第一項
+- 第二項
+    - 子項
+    - 子項
+1. 第一項
+2. 第二項
+    1. 子項1
+    2. 子項2
+`這是一行程式碼`
 
+```Python
+# 這是Python程式碼區塊
+print("Hello, World!")
+```
+[GitHub](https://github.com/)
 
+![我老婆](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4sHTn8lOCHtN8emwK-2tQSRsUYnAx4OZcvyQipwbYcFODFpp8)
 
+> 這是一個引用
 
+---
+
+區隔過後
+
+| 表頭1 | 表頭2 |
+| ----- | ----- |
+| 單元格1 | 單元格2 |
+| 單元格3 | 單元格4 |
 
