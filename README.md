@@ -17,7 +17,45 @@
 6. 練習Markdown語法
 
 # Markdown語法練習區⬇️⬇️⬇️
+# H1 標題
+## H2 標題
+### H3 標題
+#### H4標題
 
+**這是粗體**
+
+*這是斜體*
+
+- 第一項
+- 第二項
+  - 子項
+  - 子項
+
+1. 第一項
+2. 第二項
+   1. 子項
+   2. 子項
+
+`這是一行程式碼`
+
+```python
+# 這是Python程式碼區塊
+print("Hello World!")
+```
+
+[GitHub](https://github.com)
+
+![替代文字](https://static-00.iconduck.com/assets.00/flutter-icon-2048x2048-ufx4idi8.png)
+
+> 這是一個引用
+---
+
+區隔過後
+
+| 表頭1 | 表頭2 |
+| --- | --- |
+| 單元格1 | 單元格2 |
+|單元格3 | 單元格4 |
 
 
 
