@@ -19,6 +19,8 @@
 # Markdown語法練習區⬇️⬇️⬇️
 
 
-
+"""italic"""
+~ first
+*粗黑體*
 
 
