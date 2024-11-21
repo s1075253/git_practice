@@ -18,7 +18,40 @@
 
 # Markdown語法練習區⬇️⬇️⬇️
 
+# H1
+## H2
+### H3
+#### H4
+**粗**
 
+*斜*
 
+1. 第一項
+2. 第二項
+   1. 子項
+   2. 子項
+   
+   
+    
+    
+  
 
+`這是一行程式碼`
+```python
+ # 這是程式碼區塊
+print('hello world')
+```
+[Github](https://github.com/Dtttttttttt/git_practice/edit/main/README.md)
+
+![圖片](https://www.svgrepo.com/show/353751/flutter.svg)
+
+> 這是一個引用
+
+---
+
+分隔過後
+|表頭一|表頭二|
+|-----|-----|
+|1|2|
+|3|4|
 
