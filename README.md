@@ -17,7 +17,36 @@
 6. 練習Markdown語法
 
 # Markdown語法練習區⬇️⬇️⬇️
+# H1
+## H2
+### H3
+#### H4
+##### H5
 
+**粗體**
+*斜體*
+
+- 第一頁
+- 第二頁
+  - 第三
+  - 第四
+
+1. 第一
+2. 第二
+   1. 第三
+   
+`this is coding`
+```python
+print("hello world!!")
+```
+[Github](https://github.com/)
+![替代文字](https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp)
+
+---
+| 表一 | 表二 |
+| ---- | ---- |
+| 單元1 | 單元2 |
+| 單元3 | 單元4 |
 
 
 
