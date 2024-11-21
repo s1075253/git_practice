@@ -18,7 +18,42 @@
 
 # Markdown語法練習區⬇️⬇️⬇️
 
+# H1 標題
+## H2 標題
+### H3 標題
+#### H4 標題
 
+**這是我**
 
+*也是我*
 
+- 這是我
+- 還是我
+  - 你猜猜
+  - 對，還是我
 
+1. 到你了
+2. 對就是你
+   1. 對對對
+   2. 就是你
+
+`這是一行程式碼`
+```python
+#這是Python程式區塊
+print("Hello,World!")
+```
+
+[RickRoll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+![image](https://gw.alicdn.com/imgextra/i2/2215141688138/O1CN01iF0Ezc29zG3awviwm_!!2-item_pic.png_.webp)
+
+>酷吧。
+
+---
+
+哭啊
+
+|表頭1|表頭2|
+|-----|-----|
+|單元格1|單元格2|
+|單元格3|單元格4|
