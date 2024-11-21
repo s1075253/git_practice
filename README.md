@@ -17,6 +17,30 @@
 6. 練習Markdown語法
 
 # Markdown語法練習區⬇️⬇️⬇️
+# H1標題
+## H2標題
+#### H3標題
+### H4標題
+**我是粗體**  
+*夠斜嗎*  
+1. A點  
+2. B點
+     1. TP
+     2. 我想不到了
+
+`這是一行程式碼`  
+```Python  
+# 這是一個Python程式碼區塊  
+print("Hello, world!")  
+```
+[Github](https.github.com)  
+![替代文字](https://i0.wp.com/clay-atlas.com/wp-content/uploads/2021/02/Flutter_LOGO.png?fit=1024%2C375&ssl=1)        
+> 這是一個引用
+
+| 國文成績 | 數學成績 |     
+| ----- | ----- |          
+| 56 | 88 |     
+| 75 | 81 |     
 
 
 
