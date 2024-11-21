@@ -18,7 +18,42 @@
 
 # Markdown語法練習區⬇️⬇️⬇️
 
+# H1  
+## H2  
+### H3  
+#### H4     
+**粗體**  
+*斜體*  
+
+- 第一項  
+- 第二項  
+  * 子項  
+  * 子項  
+
+1. 第一項  
+2. 第二項  
+  I. 子項  
+  II. 子項  
 
 
+`我4程式碼`
 
+```python
+#python程式碼區塊
+print("Hello,World")
+```
 
+[Github](https.github.com)
+
+![程式設計](https://titangene.github.io/images/cover/flutter.jpg)
+
+> the 引用
+
+---
+
+分水嶺
+
+|表格1|表格2|
+|-----|-----|
+|單元格1|單元格2|
+|單元格3|單元格4|
