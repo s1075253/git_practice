@@ -17,8 +17,18 @@
 6. 練習Markdown語法
 
 # Markdown語法練習區⬇️⬇️⬇️
+  # ok喔~
+  **italic**
+  *粗黑體*
+
+`code`
+```
+codes
+```
 
 
+<https://www.youtube.com/watch?v=NZjWFh_9WSg>
+![image](https://pic.pimg.tw/milstein/1382856181-623753102_wn.jpg)
 
-
-
+|標題|標題|
+|----|----|
